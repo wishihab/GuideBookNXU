@@ -1,8 +1,8 @@
-# Hi
-Guide Book For Newcomer International Student - Nanjing Xiaozhuang University
+<h1 align="center">Hi</h1>
+<h4 align="center">Guide Book For Newcomer International Student - Nanjing Xiaozhuang University</h4>
 
-## To read use your keyboard
-next -> and previous <-
+
+![ScreenShot](https://github.com/wishihab/GuideBookNXU/blob/master/Cover.jpg)
 
 ## Credit
 - Guide Book by Fauzi Nugroho
