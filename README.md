@@ -4,6 +4,9 @@
 
 ![ScreenShot](https://github.com/wishihab/GuideBookNXU/blob/master/Cover.jpg)
 
+## Demo
+- Link https://wishihab.github.io/GuideBookNXU/
+
 ## Credit
 - Guide Book by Fauzi Nugroho
 - Turn.js by https://github.com/blasten/turn.js
